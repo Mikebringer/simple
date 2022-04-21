@@ -1,3 +1,5 @@
+# This file will be used for the git training
+
 This is the first line.
 
 This is the second line.
