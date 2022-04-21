@@ -19,3 +19,13 @@ And this is a table:
 |---|---|
 |test| test|
 |test| test|
+
+
+**Bold text** is *necessary* sometimes.
+
+I'd like to present you a bulleted list:
+- Item one.
+- Item two.
+    1. This is gonna be nested.
+    2. So cool.
+- Heey, this almost broke it.
