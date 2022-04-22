@@ -36,8 +36,11 @@ I'd like to present you a bulleted list:
 
 And this is as far as I'll go tonight.
 
-<<<<<<< HEAD
 Stash test.
-=======
+
+Stash test with merge.
+
 I'm working on this file.
->>>>>>> main
+
+1. Merge should be successful now.
+2. Test.
