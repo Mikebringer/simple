@@ -36,4 +36,6 @@ I'd like to present you a bulleted list:
 
 And this is as far as I'll go tonight.
 
+Stash test.
+
 I'm working on this file.
